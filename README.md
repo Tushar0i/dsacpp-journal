@@ -35,7 +35,27 @@ I follow a simple daily structure:
 
 ---
 
-<pre> ## 📂 Folder Structure ``` dsacpp-journal/ ├── Cpp-Fundamentals/ # C++ basics to get started with DSA │ ├── notes.md # Notes with image support │ └── code/ # Source code for basics ├── Daily/ # Day-wise DSA problems and solutions │ ├── Day01/ │ │ ├── problems.md │ │ └── solutions/ │ │ └── example.cpp ├── Topics/ # Topic-wise DSA notes (Arrays, LL, etc.) │ ├── Arrays.md │ └── LinkedList.md ├── Templates/ # Reusable templates (fast I/O, DS, etc.) │ └── fast_io.cpp ├── assets/ # Diagrams or images used in notes │ └── example_image.png ├── README.md ├── Progress.md └── .gitignore ``` </pre>
+## 📂 Folder Structure
+
+- dsacpp-journal/
+    - Cpp-Fundamentals/
+        - notes.md
+        - code/
+    - Daily/
+        - Day01/
+          - problems.md
+          - solutions/
+            - example.cpp
+    - Topics/
+        - Arrays.md
+        - LinkedList.md
+    - Templates/
+        - fast_io.cpp
+    - assets/
+        - example_image.png
+    - Progress.md
+    - README.md
+    - .gitignore
 
 ---
 
