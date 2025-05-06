@@ -44,3 +44,9 @@
 
 <h3>📄 Page 11</h3>
 <img src="../assets/cppbasics/page11.jpg" alt="Page 11" width="500"/>
+
+© Tushar Thakur 2025. All rights reserved.
+
+
+
+This work is licensed under CC BY-NC-ND 4.0. You may share this image with proper credit, but not modify it or use it commercially. © Tushar Thakur 2025. For inquiries: **Email**: [tusharthakur.dev@gmail.com](mailto:tusharthakur.dev@gmail.com)
