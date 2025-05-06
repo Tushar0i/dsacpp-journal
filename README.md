@@ -36,7 +36,7 @@ I follow a simple daily structure:
 ---
 
 ## 🧩 Folder Structure
-
+'''
 dsacpp-journal/
 |
 ├── Cpp-Fundamentals/          # C++ basics to get started with DSA
@@ -57,7 +57,7 @@ dsacpp-journal/
 ├── README.md
 ├── Progress.md
 └── .gitignore
-
+'''
 
 ---
 
