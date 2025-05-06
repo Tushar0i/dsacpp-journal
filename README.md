@@ -37,13 +37,27 @@ I follow a simple daily structure:
 
 ## 🧩 Folder Structure
 
-DSA-Inclined/
-├── Cpp-Fundamentals/ # All C++ basics and notes
-├── DayXX/ # Daily DSA problem-solving folders
-├── Topics/ # Topic-wise notes (Arrays, Linked Lists, etc.)
-├── Templates/ # Reusable code templates (e.g., fast I/O)
-├── Progress.md # Daily summary
-└── README.md # You are here!
+dsacpp-journal/
+|
+├── Cpp-Fundamentals/          # C++ basics to get started with DSA
+│   ├── notes.md               # Notes with image support
+│   └── code/                  # Source code for basics
+├── Daily/                     # Day-wise DSA problems and solutions
+│   ├── Day01/
+│   │   ├── problems.md
+│   │   └── solutions/
+│   │       └── example.cpp
+├── Topics/                    # Topic-wise DSA notes (Arrays, LL, etc.)
+│   ├── Arrays.md
+│   └── LinkedList.md
+├── Templates/                 # Reusable templates (fast I/O, DS, etc.)
+│   └── fast_io.cpp
+├── assets/                    # Diagrams or images used in notes
+│   └── example_image.png
+├── README.md
+├── Progress.md
+└── .gitignore
+
 
 ---
 
