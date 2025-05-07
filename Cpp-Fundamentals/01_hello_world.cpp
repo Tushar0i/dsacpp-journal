@@ -2,7 +2,24 @@
 
 // symbolic constant
 #define X 305;
+
 using namespace std;
+
+void changeNum(int *ptr)
+{ // pass by reference using pointers
+
+    *ptr = 100;
+
+    cout << *ptr << "\n";
+}
+
+void changeNum(int &a)
+{ // pass  by reference using referencr variable
+
+    a = 12;
+
+    cout << a << "\n";
+}
 
 int main()
 {
@@ -10,15 +27,54 @@ int main()
     cout << "Hello, World!\n"
          << "shifting to cpp\n";
 
-         cout<< sizeof(int)<<endl;
-         cout<< sizeof(long int)<<endl;
-         cout<< sizeof(long long int)<<endl;
+    int newNum = 99;
 
-         for (int i = 0; i <=10; i++)
-         {
-            cout<<i<<" ";
-         }
-         
+    changeNum(&newNum);
+    cout << newNum << "\n";
+
+    int newNum2 = 29;
+
+    changeNum(newNum2);
+
+    cout << newNum2 << "\n";
+
+    int number = 10;
+
+    int *ptr = &number;
+
+    cout << &number << " = " << ptr << endl; // & = Address of
+
+    float exp = 98.09;
+    float *ptr2 = &exp;
+    float **ptr3 = &ptr2;
+
+    cout << &exp << " = " << ptr2 << endl;  // & = Address of
+    cout << &ptr2 << " = " << ptr3 << endl; // & = Address of
+
+    cout << "size of ptr = " << sizeof(ptr) << " bytes" << "\n";
+    cout << "size of ptr2 = " << sizeof(ptr2) << " bytes" << "\n";
+    cout << "size of ptr3 = " << sizeof(ptr3) << " bytes" << "\n";
+
+    // '*' can also be use as dereferencing operator
+
+    int exml = 1003;
+
+    int *pointer = &exml;
+
+    *pointer = 10003;
+
+    cout << pointer << "\n";
+
+    cout << exml << "\n";
+
+    cout << sizeof(int) << endl;
+    cout << sizeof(long int) << endl;
+    cout << sizeof(long long int) << endl;
+
+    for (int i = 0; i <= 10; i++)
+    {
+        cout << i << " ";
+    }
 
     int age;
     cout << "Enter your age : ";
