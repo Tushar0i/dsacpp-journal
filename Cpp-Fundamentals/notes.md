@@ -9,6 +9,7 @@
 - Loops
 - Functions
 - Binary Number System
+- Pointers
 
 <h2>📘 C++ Basics Notes (Image Snapshots)</h2>
 
@@ -44,6 +45,15 @@
 
 <h3>📄 Page 11</h3>
 <img src="../assets/cppbasics/page11.jpg" alt="Page 11" width="500"/>
+
+<h3>📄 Page 12</h3>
+<img src="../assets/cppbasics/page12.jpg" alt="Page 9" width="500"/>
+
+<h3>📄 Page 13</h3>
+<img src="../assets/cppbasics/page13.jpg" alt="Page 10" width="500"/>
+
+<h3>📄 Page 14</h3>
+<img src="../assets/cppbasics/page14.jpg" alt="Page 11" width="500"/>
 
 © Tushar Thakur 2025. All rights reserved.
 
