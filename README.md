@@ -98,3 +98,15 @@ I follow a simple daily structure:
 - **LeetCode**: [https://leetcode.com/u/tushar0i](https://leetcode.com/u/tushar0i)
 
 If you're also learning DSA, feel free to fork, star ⭐️, or reach out!
+
+## 📄 License
+
+- All **code, problems, and solutions** in this repository are licensed under the [MIT License](./LICENSE).  
+  You may use, modify, and share them freely — **no credit required**.
+
+- All **handwritten notes** are licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/).  
+  You may **share them only for non-commercial use and with proper credit**.  
+  **Modification or redistribution for commercial purposes is not allowed.**
+
+For inquiries or permission requests, contact: [tusharthakur.dev@gmail.com](mailto:tusharthakur.dev@gmail.com)
+
