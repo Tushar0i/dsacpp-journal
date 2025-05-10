@@ -33,3 +33,23 @@ Basics of arrays in C++.
 
 <h3 id="page6">📄 Page 6</h3>
 <img src="../../assets/arrays/page06.jpg" alt="Page 6" width="500"/>
+
+Copyright © 2025 Tushar Thakur  
+Licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).  
+
+You may share these handwritten notes for educational purposes **with proper credit**.  
+However, you may not modify, sell, or redistribute them in any altered form.
+
+For inquiries or permission requests, contact: **https://linkedin.com/in/tushar0i**  
+To view a copy of this license, visit: https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/tushar0i" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+  <a href="https://discord.com/invite/8WTNGvJqU3" target="_blank"><img src="https://www.svgrepo.com/show/353655/discord-icon.svg" height="30" width="40" /></a>
+  <a href="https://twitter.com/tushar0i" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
+  <a href="https://www.codechef.com/users/tushar0i" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/tushar0i" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/tushar0i" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/tushar0i" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" /></a>
+</p>
