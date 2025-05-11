@@ -17,22 +17,22 @@ Basics of arrays in C++.
 ## 📘 Arrays Notes (Image Snapshots)
 
 <h3 id="page1">📄 Page 1</h3>
-<img src="../../assets/arrays/page01.jpg" alt="Page 1" width="500"/>
+<img src="../assets/arrays/page01.jpg" alt="Page 1" width="500"/>
 
 <h3 id="page2">📄 Page 2</h3>
-<img src="../../assets/arrays/page02.jpg" alt="Page 2" width="500"/>
+<img src="../assets/arrays/page02.jpg" alt="Page 2" width="500"/>
 
 <h3 id="page3">📄 Page 3</h3>
-<img src="../../assets/arrays/page03.jpg" alt="Page 3" width="500"/>
+<img src="../assets/arrays/page03.jpg" alt="Page 3" width="500"/>
 
 <h3 id="page4">📄 Page 4</h3>
-<img src="../../assets/arrays/page04_1.jpg" alt="Page 4" width="500"/>
+<img src="../assets/arrays/page04_1.jpg" alt="Page 4" width="500"/>
 
 <h3 id="page5">📄 Page 5</h3>
-<img src="../../assets/arrays/page05.jpg" alt="Page 5" width="500"/>
+<img src="../assets/arrays/page05.jpg" alt="Page 5" width="500"/>
 
 <h3 id="page6">📄 Page 6</h3>
-<img src="../../assets/arrays/page06.jpg" alt="Page 6" width="500"/>
+<img src="../assets/arrays/page06.jpg" alt="Page 6" width="500"/>
 
 Copyright © 2025 Tushar Thakur  
 Licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).  
