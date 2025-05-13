@@ -3,7 +3,7 @@ using namespace std;
 
 // Best time to buy and sell stock;
 
-int maxProfit(int *arr, int n)
+int maxProfit(int *arr, int n) // first instinct
 {
 
     int profit;
@@ -37,7 +37,31 @@ int maxProfit(int *arr, int n)
     }
 }
 
-int maxProfit2(int *arr, int n) {
+int maxProfit1(int* arr ,int n){
+
+
+     int bestBuy[100000];
+     bestBuy[0] = INT_MAX;
+
+    for(int i = 1 ; i<n;i++){
+        bestBuy[i] = min(bestBuy[i-1],arr[i-1]);
+       
+    }
+
+    int maxProf = 0;
+    for(int i = 0; i<n;i++){
+
+        int profit = arr[i]-bestBuy[i];
+
+        maxProf = max(profit,maxProf);
+
+    }
+    
+
+    return maxProf;
+}
+
+int maxProfit2(int *arr, int n) { // Best solution
     int minPrice = INT_MAX;
     int maxProfit = 0;
 
@@ -62,7 +86,8 @@ int main()
 
     int lngt = sizeof(array)/sizeof(int);
 
-    cout<<"Maximun profit = "<<maxProfit2(array,lngt)<<endl; // output 19 ;
+    cout<<"Maximun profit = "<<maxProfit1(array,lngt)<<endl; // output 19 ;
+    
 
 
     return 0;
