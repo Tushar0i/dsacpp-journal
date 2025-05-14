@@ -1,38 +1,73 @@
-# 📚 Arrays Notes
+# 📚 Arrays Notes in C++
 
 Basics of arrays in C++.
 
-## Topics:
-- Creating arrays → <a href="../Arrays/array_01.cpp">**CODE**</a> | <a href="#page1">📄 Page 1</a>
-- Length of array → <a href="../Arrays/array_01.cpp">**CODE**</a> | <a href="#page1">📄 Page 1</a>
-- I/O in arrays → <a href="../Arrays/array_02.cpp">**CODE**</a> | <a href="#page2">📄 Page 2</a>
-- Largest number in array → <a href="../../Day01/solutions/largest.cpp">**CODE**</a> | <a href="#page2">📄 Page 2</a>
-- Arrays passed as reference → <a href="../Arrays/array_03.cpp">**CODE**</a> | <a href="#page2">📄 Page 2</a>
-- Linear search → <a href="../Arrays/array_04.cpp">**CODE**</a> | <a href="#page3">📄 Page 3</a>
-- Reverse of array with extra space → <a href="../../Day01/solutions/reversewithsp.cpp">**CODE**</a> | <a href="#page4">📄 Page 4</a>
-- Reverse of array without using extra space → <a href="../../Daily/Day02/solutions/reversewithoutsp.cpp">**CODE**</a> | <a href="#page4">📄 Page 4</a>
-- Binary search → <a href="../Arrays/array_05.cpp">**CODE**</a> | <a href="#page5">📄 Page 5</a>
-- Array pointers & pointer Arithmetic → <a href="../Arrays/array_06.cpp">**CODE**</a> | <a href="#page6">📄 Page 6</a>
+---
+
+## 📑 Table of Contents
+- [📋 Topics Table](#topics-table)
+- [📘 Arrays Notes (Image Snapshots)](#-arrays-notes-image-snapshots)
+
+---
+
+## 📋 Topics Table
+
+| 🔹 Topic                                           | 💻 Code                                                                 | 📝 Notes       | 📄 Page |
+|---------------------------------------------------|------------------------------------------------------------------------|----------------|---------|
+| Creating arrays                                   | [**CODE**](../Arrays/array_01.cpp)                                    | [Notes](#page1) | 1       |
+| Length of array                                   | [**CODE**](../Arrays/array_01.cpp)                                    | [Notes](#page1) | 1       |
+| I/O in arrays                                     | [**CODE**](../Arrays/array_02.cpp)                                    | [Notes](#page2) | 2       |
+| Largest number in array                           | [**CODE**](../../Day01/solutions/largest.cpp)                         | [Notes](#page2) | 2       |
+| Arrays passed as reference                        | [**CODE**](../Arrays/array_03.cpp)                                    | [Notes](#page2) | 2       |
+| Linear search                                     | [**CODE**](../Arrays/array_04.cpp)                                    | [Notes](#page3) | 3       |
+| Reverse of array with extra space                 | [**CODE**](../../Day01/solutions/reversewithsp.cpp)                   | [Notes](#page4) | 4       |
+| Reverse of array without using extra space        | [**CODE**](../../Daily/Day02/solutions/reversewithoutsp.cpp)         | [Notes](#page4) | 4       |
+| Binary search                                     | [**CODE**](../Arrays/array_05.cpp)                                    | [Notes](#page5) | 5       |
+| Array pointers & pointer arithmetic               | [**CODE**](../Arrays/array_06.cpp)                                    | [Notes](#page6) | 6       |
+| Printing subarrays                                | [**CODE**](../Arrays/array_07.cpp)                                    | [Notes](#page7) | 7       |
+| Maximum subarray sum (Brute Force Approach)       | [**CODE**](../../dsacpp-journal/Daily/Day03/solutions/maxsasum1.cpp) | [Notes](#page8) | 8       |
+| Maximum subarray sum (Optimized Approach)         | [**CODE**](../../dsacpp-journal/Daily/Day03/solutions/maxsasum2.cpp) | [Notes](#page9) | 9       |
+| Maximum subarray sum (Kadane's Algorithm)         | [**CODE**](../../dsacpp-journal/Daily/Day03/solutions/maxsasum3.cpp) | [Notes](#page9) | 9       |
+| Best Time to Buy & Sell Stocks                    | [**CODE**](../../dsacpp-journal/Daily/Day04/solutions/buySellStocks.cpp) | [Notes](#page10) | 10      |
+| Trapping Rainwater                                | [**CODE**](../../dsacpp-journal/Daily/Day05/solutions/trappingRainwater.cpp) | [Notes](#page11) | 11      |
+
+---
 
 ## 📘 Arrays Notes (Image Snapshots)
 
-<h3 id="page1">📄 Page 1</h3>
+### <h3 id="page1">📄 Page 1</h3>
 <img src="../assets/arrays/page01.jpg" alt="Page 1" width="500"/>
 
-<h3 id="page2">📄 Page 2</h3>
+### <h3 id="page2">📄 Page 2</h3>
 <img src="../assets/arrays/page02.jpg" alt="Page 2" width="500"/>
 
-<h3 id="page3">📄 Page 3</h3>
+### <h3 id="page3">📄 Page 3</h3>
 <img src="../assets/arrays/page03.jpg" alt="Page 3" width="500"/>
 
-<h3 id="page4">📄 Page 4</h3>
+### <h3 id="page4">📄 Page 4</h3>
 <img src="../assets/arrays/page04_1.jpg" alt="Page 4" width="500"/>
 
-<h3 id="page5">📄 Page 5</h3>
+### <h3 id="page5">📄 Page 5</h3>
 <img src="../assets/arrays/page05.jpg" alt="Page 5" width="500"/>
 
-<h3 id="page6">📄 Page 6</h3>
+### <h3 id="page6">📄 Page 6</h3>
 <img src="../assets/arrays/page06.jpg" alt="Page 6" width="500"/>
+
+### <h3 id="page7">📄 Page 7</h3>
+<img src="../assets/arrays/page07.jpg" alt="Page 7" width="500"/>
+
+### <h3 id="page8">📄 Page 8</h3>
+<img src="../assets/arrays/page08.jpg" alt="Page 8" width="500"/>
+
+### <h3 id="page9">📄 Page 9</h3>
+<img src="../assets/arrays/page09.jpg" alt="Page 9" width="500"/>
+
+### <h3 id="page10">📄 Page 10</h3>
+<img src="../assets/arrays/page10.jpg" alt="Page 10" width="500"/>
+
+### <h3 id="page11">📄 Page 11</h3>
+<img src="../assets/arrays/page11.jpg" alt="Page 11" width="500"/>
+
 
 Copyright © 2025 Tushar Thakur  
 Licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).  
