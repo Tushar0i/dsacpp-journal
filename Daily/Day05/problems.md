@@ -5,3 +5,5 @@
 2. Contains Duplicate(Brute Force) -> <a href="../Day05/solutions/containsDuplicate.cpp">**Solution**</a>\
 
 3. Search in Rotated Sorted Array -> <a href="../Day05/solutions/searchInRotatedSortedArray.cpp">**Solution**</a>\
+
+3. Maximum Product Subarray -> <a href="../Day05/solutions/maxProductSubarray.cpp">**Solution**</a>\
