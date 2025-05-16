@@ -3,7 +3,7 @@
 # 📚 **dsacpp-journal**  
 ### *A C++ DSA Journey*
 
-![Page Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/tushar0i/dsacpp-journal&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=visits&edge_flat=false)
+![GitHub page views](https://img.shields.io/badge/dynamic/json?color=blue&label=views&query=totalCount&url=https://api.countapi.xyz/hit/Tushar0i/dsacpp-journal)
 
 > Tracking my daily progress in mastering **Data Structures and Algorithms** using **C++**.  
 > Staying consistent, solving problems, and building solid problem-solving skills—one day at a time.
@@ -120,7 +120,7 @@ Before diving into DSA, I’m spending time building a solid foundation in C++.
   <a href="https://www.leetcode.com/tushar0i" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
   <a href="https://codeforces.com/profile/tushar0i" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40" /></a>
   <a href="https://auth.geeksforgeeks.org/user/tushar0i" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" /></a>
-  
+
   **Email** - tusharthakur.dev@gmail.com
 </p>
 
